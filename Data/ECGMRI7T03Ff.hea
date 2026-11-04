@@ -1,0 +1,51 @@
+ECGMRI7T03Ff 12 1024 268001
+ECGMRI7T03Ff.dat 16 5356.4548(-495)/mV 0 0 -2741 -15353 0 I
+ECGMRI7T03Ff.dat 16 3782.7626(-7617)/mV 0 0 -4089 17379 0 II
+ECGMRI7T03Ff.dat 16 5362.3475(193)/mV 0 0 7442 16154 0 III
+ECGMRI7T03Ff.dat 16 4960.9251(8537)/mV 0 0 7261 -2667 0 aVR
+ECGMRI7T03Ff.dat 16 5366.3205(-375)/mV 0 0 -5127 32068 0 aVL
+ECGMRI7T03Ff.dat 16 4819.4448(-4283)/mV 0 0 1225 14825 0 aVF
+ECGMRI7T03Ff.dat 16 10446.1302(2430)/mV 0 0 8640 11302 0 V1
+ECGMRI7T03Ff.dat 16 7512.9585(-479)/mV 0 0 5007 12747 0 V2
+ECGMRI7T03Ff.dat 16 7829.8563(-698)/mV 0 0 599 -25059 0 V3
+ECGMRI7T03Ff.dat 16 6232.9983(-5293)/mV 0 0 -5837 -2338 0 V4
+ECGMRI7T03Ff.dat 16 6915.7931(-7679)/mV 0 0 -9612 -18373 0 V5
+ECGMRI7T03Ff.dat 16 6187.6186(-5927)/mV 0 0 -9856 19767 0 V6
+# 
+# 
+#*Technical parameters of the MR scanner:
+#--Magnetic field strength:7T
+#--MR scanner:Siemens Magnetom 7T
+#--Orientation of the static magnetic field (B0):Horizontal
+# 
+# 
+#*Technical parameters of the ECG hardware: 
+#--ECG recorder:Getemed CM 3000, 12-lead Holter ECG
+#--ADC resolution:12bit
+#--ADC input voltage range:+/-6mV
+#--ECG lead configuration:Diagnostic 12 lead ECG
+# 
+# 
+#*Information about the subject: 
+#--Sex:Male
+#--Age:27years
+#--Weight:70kg
+#--Height:180cm
+#--Positon in the scanner:Feet first (Ff)
+#--Respiration:Spontaneous respiration
+# 
+# 
+#*Electrocardiographic information: 
+#--Manual annotations of all QRS complexes
+#--No distinction between normal and abnormal beats (e.g. ectopic beats)
+#--No known cardiac diseases
+# 
+# 
+#*Contact information: 
+#--Otto-von-Guericke-Universitaet Magdeburg, Germany
+#--Johannes Krug Passand
+#--krug.johannes at gmail.com
+# 
+# 
+#*References: 
+#[1] J. Krug et al., A Database of Electrocardiogram Signals Acquired in Different Magnetic Resonance Imaging Scanners, Proc Comput Cardiol, 44, 2017

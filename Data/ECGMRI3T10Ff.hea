@@ -1,0 +1,42 @@
+ECGMRI3T10Ff 3 1024 158751
+ECGMRI3T10Ff.dat 16 26292.195(53196)/mV 0 0 22898 -18439 0 I
+ECGMRI3T10Ff.dat 16 8346.5934(-88846)/mV 0 0 -32767 -14081 0 II
+ECGMRI3T10Ff.dat 16 7777.2936(-95913)/mV 0 0 -32767 31845 0 III
+# 
+# 
+#*Technical parameters of the MR scanner:
+#--Magnetic field strength:3T
+#--MR scanner:Siemens Magnetom Skyra
+#--Orientation of the static magnetic field (B0):Horizontal
+# 
+# 
+#*Technical parameters of the ECG hardware: 
+#--ECG recorder:MIPM Tesla M3 Patient Monitor
+#--ADC resolution:24bit
+#--ADC input voltage range:+/-2.4mV
+#--ECG lead configuration: Reduced Einthoven Triangle
+# 
+# 
+#*Information about the subject: 
+#--Sex:Female
+#--Age:20years
+#--Weight:52kg
+#--Height:161cm
+#--Positon in the scanner:Feet first (Ff)
+#--Respiration:Spontaneous respiration
+# 
+# 
+#*Electrocardiographic information: 
+#--Manual annotations of all QRS complexes
+#--No distinction between normal and abnormal beats (e.g. ectopic beats)
+#--No known cardiac diseases
+# 
+# 
+#*Contact information: 
+#--Otto-von-Guericke-Universitaet Magdeburg, Germany
+#--Johannes Krug Passand
+#--krug.johannes at gmail.com
+# 
+# 
+#*References: 
+#[1] J. Krug et al., A Database of Electrocardiogram Signals Acquired in Different Magnetic Resonance Imaging Scanners, Proc Comput Cardiol, 44, 2017
